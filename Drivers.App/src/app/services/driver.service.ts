@@ -8,11 +8,11 @@ import { environment } from 'src/environments/environment';
   providedIn: 'root'
 })
 export class DriverService {
-  url = "/Drivers"
+  url = "Drivers"
 
   constructor(private http: HttpClient) { }
 
   public getDrivers() : Observable<Driver[]> {
-    return this.http.get<Driver[]>(`${environment.apiUrl}`);
+    return this.http.get<Driver[]>(`${environment.apiUrl}/${this.url}`);
   }
 }
