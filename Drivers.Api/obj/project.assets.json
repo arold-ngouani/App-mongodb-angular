@@ -1244,11 +1244,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aroldngouani/Desktop/Drivers.Api/Drivers.Api.csproj",
+      "projectUniqueName": "/Users/aroldngouani/Desktop/Prog/App-mongodb-angular/Drivers.Api/Drivers.Api.csproj",
       "projectName": "Drivers.Api",
-      "projectPath": "/Users/aroldngouani/Desktop/Drivers.Api/Drivers.Api.csproj",
+      "projectPath": "/Users/aroldngouani/Desktop/Prog/App-mongodb-angular/Drivers.Api/Drivers.Api.csproj",
       "packagesPath": "/Users/aroldngouani/.nuget/packages/",
-      "outputPath": "/Users/aroldngouani/Desktop/Drivers.Api/obj/",
+      "outputPath": "/Users/aroldngouani/Desktop/Prog/App-mongodb-angular/Drivers.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aroldngouani/.nuget/NuGet/NuGet.Config"

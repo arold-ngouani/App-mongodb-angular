@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sb/ohAjjF2pFql4YdE+GPz1x/qEMYUAId1T8SoSPUW5Fvhu2Zgf7iRpbtsbZOw6um6Y9UTkXcSJYs0TtZi+GwQ==",
+  "dgSpecHash": "iDe5b/gyRJfFtXgTc7COEnBmQPUiwAn5oJVKSKLs90YbX5ZPEQ91v5zB4QHbvHS/Ridkh/aqPloD/oiHSitOLA==",
   "success": true,
-  "projectFilePath": "/Users/aroldngouani/Desktop/Drivers.Api/Drivers.Api.csproj",
+  "projectFilePath": "/Users/aroldngouani/Desktop/Prog/App-mongodb-angular/Drivers.Api/Drivers.Api.csproj",
   "expectedPackageFiles": [
     "/Users/aroldngouani/.nuget/packages/awssdk.core/3.7.100.14/awssdk.core.3.7.100.14.nupkg.sha512",
     "/Users/aroldngouani/.nuget/packages/awssdk.securitytoken/3.7.100.14/awssdk.securitytoken.3.7.100.14.nupkg.sha512",
